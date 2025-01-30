@@ -1,0 +1,22 @@
+List of commissioners with ministries and geopolitical zones
+
+Name: Aigbogun Alamba Daudu
+Ministry: Internal Affairs
+Geo Political Zone: South West
+
+Name: Murtala Afeez Benud
+Ministry: Justice
+Geo Political Zone: North East
+
+Name: Okorocha Calistus Ogbona
+Ministry: Defense
+Geo Political Zone: South South
+
+Name: Adewale Jimoh Akanbi
+Ministry: Power & Steel
+Geo Political Zone: South West
+
+Name: Osazawu Faith Etieye
+Ministry: Petroleum
+Geo Political Zone: South East
+
