@@ -20,7 +20,7 @@ fn main() {
     let access = database();
 
     if access == 1 {
-        let mut file = File::open("C:/Users/MYPC/Desktop/globacom_dbase.sql")
+        let mut file = File::open("C:/Users/MYPC/Documents/oadeakinCSC101/week-13/project_1/globacom_dabse.sql")
             .expect("File not found");
         let mut contents = String::new();
         file.read_to_string(&mut contents).expect("Failed to read file");
@@ -28,7 +28,7 @@ fn main() {
     }
 
     if access == 2 {
-        let mut file = File::open("C:/Users/MYPC/Desktop/project_tb.sql")
+        let mut file = File::open("C:/Users/MYPC/Documents/oadeakinCSC101/week-13/project_1/project_tb.sql")
             .expect("File not found");
         let mut contents = String::new();
         file.read_to_string(&mut contents).expect("Failed to read file");
@@ -36,7 +36,7 @@ fn main() {
     }
 
     if access == 3 {
-        let mut file = File::open("C:/Users/MYPC/Desktop/staff_tb.sql")
+        let mut file = File::open("C:/Users/MYPC/Documents/oadeakinCSC101/week-13/project_1/staff_tb.sql")
             .expect("File not found");
         let mut contents = String::new();
         file.read_to_string(&mut contents).expect("Failed to read file");
@@ -44,7 +44,7 @@ fn main() {
     }
 
     if access == 4 {
-        let mut file = File::open("C:/Users/MYPC/Desktop/customer_tb.sql")
+        let mut file = File::open("C:/Users/MYPC/Documents/oadeakinCSC101/week-13/project_1/customer_tb.sql")
             .expect("File not found");
         let mut contents = String::new();
         file.read_to_string(&mut contents).expect("Failed to read file");
@@ -52,7 +52,7 @@ fn main() {
     }
 
     if access == 5 {
-        let mut file = File::open("C:/Users/MYPC/Desktop/dataplan_tb.sql")
+        let mut file = File::open("C:/Users/MYPC/Documents/oadeakinCSC101/week-13/project_1/dataplan_tb.sql")
             .expect("File not found");
         let mut contents = String::new();
         file.read_to_string(&mut contents).expect("Failed to read file");
